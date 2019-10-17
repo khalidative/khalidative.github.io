@@ -31,7 +31,8 @@ body{ margin: 0;
 	transform: translate(-50%,-50%);
   }
 
-.video-header{height: 82vh;
+.video-header{height: 100%;
+		 width: 100%;
          display: flex;
 	     align-items: center;
 	     color: #fff;
