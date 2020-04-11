@@ -15,6 +15,7 @@ tags:
 ---
 
 [37% of Americans](https://medium.com/marketing-and-entrepreneurship/11-amazing-facts-you-might-not-know-about-chatbots-8cdf331181f8) say they’d buy something from a chatbot.
+
 So for the holiday shopping season in 2017, LEGO introduced shoppers to Ralph.
 
 ![]({{site.baseurl}}/assets/images/ecommerce-chatbot.png)
