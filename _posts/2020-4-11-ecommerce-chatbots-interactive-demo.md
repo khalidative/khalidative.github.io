@@ -18,5 +18,5 @@ tags:
 
 So for the holiday shopping season in 2017, LEGO introduced shoppers to Ralph.
 
-![]({{site.baseurl}}/assets/images/ecommerce-chatbot.png)
+![]({{site.baseurl}}/assets/images/lego-bot-ralph.mp4)
 
