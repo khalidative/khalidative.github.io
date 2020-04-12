@@ -30,9 +30,9 @@ Ralph is a Facebook Messenger bot, a virtual personal shopper for any one lookin
 
 And Ralph posts some seriously [impressive marketing metrics](https://www.facebook.com/business/success/2-lego):
 
-*3.4X higher return on ad spend for click-to-Messenger ads (compared to ads that linked to the LEGO website)
-*71% lower cost per purchase when clicking through to the Messenger experience
-*1.9X higher value for website purchases made from click-to-Messenger ads
+* 3.4X higher return on ad spend for click-to-Messenger ads (compared to ads that linked to the LEGO website)
+* 71% lower cost per purchase when clicking through to the Messenger experience
+* 1.9X higher value for website purchases made from click-to-Messenger ads
 
 ![]({{site.baseurl}}/assets/images/lego-bot-ralph.mp4)
 
