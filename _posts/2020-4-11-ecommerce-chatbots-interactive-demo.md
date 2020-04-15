@@ -95,4 +95,52 @@ But instead of instructing those users to immediately visit your website and mak
 
 After clicking the CTA, they’ll receive an automated bot message from your page.
 
-![]({{site.baseurl}}/assets/images/jasper-click-to-messenger-ad.png)
+![]({{site.baseurl}}/assets/images/jasper-click-to-messenger-ad.png)	
+
+In your ecommerce bot ad, have a clear call-to-action that the user can take.
+
+For example, you might include a link to your store, along with a discount code for 20% off a purchase.
+
+It doesn’t matter what, exactly you ask recipients to do, though — the important thing is that they engage in some way.
+
+Because as soon as they do, they’ll be added to your list of Messenger contacts, and you can continue sending them messages on Messenger.
+
+This approach is particularly effective if you use custom audiences to target your ads to users who’ve already engaged with your website, your Facebook page, or a customer audience list of emails.
+
+![]({{site.baseurl}}/assets/images/10001_custom_facebook_audience.png)
+
+Convert your warm prospects list who are familiar with your brand into Messenger contacts who are much more likely to click your CTA and engage in Messenger.
+
+You can also use the lookalike audience option to target users who have similar interests or demographics to your existing customer base.
+
+This way, you can expand your Messenger contact list, but still focus on users who are more likely than the average person to be interested in connecting with your brand.	
+
+### 2. Free Facebook Comment Guard
+
+Comment Guards are another easy and effective way to turn engaged commenters into Messenger contacts.
+
+It lets you automatically message all of the users who comment on a specific post on your business’s Facebook page. It turns your Facebook fans into Messenger contacts you can message.
+
+For example, Natural Gear Camouflage added a Comment Guard to this Facebook post, offering a 20% off coupon to anyone who commented on it.
+
+![]({{site.baseurl}}/assets/images/10001_comment_guard_post.png)
+
+Then, every user who commented automatically received the following message:
+
+![]({{site.baseurl}}/assets/images/10001_comment_guard_messege.png)
+
+In this example, they required the user to reply “Yes” to see the answer to the question posed in their post.
+
+This is an extremely easy thing to ask of their shoppers, and one that most users will be willing to do.
+
+And that’s important — because much like with Click-to-Messenger ads, every user who responds to that first message is automatically added to your Messenger contact list.
+
+Once they’re on your list, you can continue communicating with them beyond simply responding to their comments on your page’s posts — and work on turning those engaged commenters into loyal customers.
+
+### 3. Website Chat Widget
+
+Website chat widgets are a great way to convert your ecommerce website’s visitors into Messenger contacts.
+
+Many shoppers are already accustomed to using live chat widgets on the ecommerce sites they buy from, like this one from Lincoln Davies Building Supply Company:
+
+![]({{site.baseurl}}/assets/images/10001_website_widget.png)
