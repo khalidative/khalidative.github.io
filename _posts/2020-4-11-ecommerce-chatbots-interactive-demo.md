@@ -144,3 +144,20 @@ Website chat widgets are a great way to convert your ecommerce website’s visit
 Many shoppers are already accustomed to using live chat widgets on the ecommerce sites they buy from, like this one from Lincoln Davies Building Supply Company:
 
 ![]({{site.baseurl}}/assets/images/10001_website_widget.png)
+
+But chat widgets don’t necessarily need to be staffed by live support agents. You can use chatbots to offer your customer 24/7 answers and support.
+
+And if you create your widget using the Messenger interface, every visitor who interacts with your chatbot will be added as a contact on the platform.
+
+You can continue sending information and updates even they leave your site, with the goal of ultimately bringing them back for a purchase.
+
+### 4. Links to Bots & QR Codes
+
+Every dialogue has a direct URL link that will plop the user straight into a particular bot conversation.
+
+If your brand has a physical retail space, you can turn a link into a QR codes that’s easy to scan while a customer is in the store — an excellent way to convert foot traffic into online connections.
+
+When a customer scans yours (whether from an in-store display, a checkout screen, or a window flyer), they’ll automatically be connected as a contact.
+
+## Part 4: How bots can segment your contact list based on individual shoppers interests and needs
+
